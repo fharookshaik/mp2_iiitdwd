@@ -46,7 +46,7 @@ The project focuses on the automated detection of comic mischief in videos, whic
 The project proposes various approaches for predicting comic mischief, with low accuracy due to limited data. Future work could involve using larger datasets, fine-tuning parameters, and exploring ensemble learning with audio and video modalities.
 
 
-_Note: Refer to the report (Group18_Mini_Project_Draft_1.pdf) for detailed methodology and model implementation steps._
+_Note: Refer to the report [Multimodal_Content_Annotation_for_Identification_of_Comic_Mischief.pdf](https://github.com/fharookshaik/mp2_iiitdwd/blob/master/Multimodal_Content_Annotation_for_Identification_of_Comic_Mischief.pdf) for detailed methodology and model implementation steps._
 
 
 ## References
